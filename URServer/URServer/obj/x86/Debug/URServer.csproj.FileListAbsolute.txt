@@ -1,0 +1,10 @@
+f:\Users\Administrator\Desktop\URServer\URServer\bin\Debug\URServer.exe
+f:\Users\Administrator\Desktop\URServer\URServer\bin\Debug\URServer.pdb
+f:\Users\Administrator\Desktop\URServer\URServer\obj\x86\Debug\URServer.csprojResolveAssemblyReference.cache
+f:\Users\Administrator\Desktop\URServer\URServer\obj\x86\Debug\URServer.exe
+f:\Users\Administrator\Desktop\URServer\URServer\obj\x86\Debug\URServer.pdb
+C:\Users\John Lee\Desktop\John\UR5e\URServer\URServer\bin\Debug\URServer.exe
+C:\Users\John Lee\Desktop\John\UR5e\URServer\URServer\bin\Debug\URServer.pdb
+C:\Users\John Lee\Desktop\John\UR5e\URServer\URServer\obj\x86\Debug\URServer.csprojAssemblyReference.cache
+C:\Users\John Lee\Desktop\John\UR5e\URServer\URServer\obj\x86\Debug\URServer.exe
+C:\Users\John Lee\Desktop\John\UR5e\URServer\URServer\obj\x86\Debug\URServer.pdb
